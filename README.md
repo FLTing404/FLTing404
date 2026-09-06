@@ -4,9 +4,10 @@ Undergraduate in Software Engineering @ [Hangzhou City University](https://www.h
 
 Currently interested in **Medical AI**, **Pathology Image Analysis**, and **Data Visualization**.
 
+This is my personal homepage: [www.flting.com](https://www.flting.com)
+
 ---
 
-[![Website](https://img.shields.io/badge/-Website-333?style=flat&logo=github&logoColor=white)](https://www.flting.com)
 [![Website](https://img.shields.io/badge/-Website-333?style=flat&logo=github&logoColor=white)](https://flting404.github.io)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=KCssSrEAAAAJ)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-6122-9087)
